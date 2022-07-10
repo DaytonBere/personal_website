@@ -5,7 +5,7 @@ const degrees = [
     link: 'https://www.tamu.edu/',
     year: 2023,
     gpa: 3.83,
-    minor: 'Statistics and Cybersecurity',
+    minor: 'Statistics',
   },
   {
     school: 'San Jacinto College Dual Credit',
