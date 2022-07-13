@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonal_website=self.webpackChunkpersonal_website||[]).push([[922],{8922:function(e,n,t){t.r(n);t(2791);var o=t(6907),s=t(184);n.default=function(){return(0,s.jsx)(o.B6,{children:(0,s.jsx)("div",{className:"not-found",children:(0,s.jsx)(o.ql,{title:"Dayton Berezoski",children:(0,s.jsx)("meta",{name:"description",content:"The content you are looking for cannot be found."})})})})}}}]);
+//# sourceMappingURL=922.9a3fd624.chunk.js.map
